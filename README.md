@@ -6,6 +6,6 @@ para generar archivos de tablas de multiplicar.
 
 Ejecutar este comando para realizar la instalación de los paquetes necesarios.
 
-**** 
+``` 
 npm install
-***
+```
